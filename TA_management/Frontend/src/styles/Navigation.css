@@ -1,0 +1,25 @@
+.navBar {
+	background-color: #fff;
+	color: #333;
+}
+.title {
+	flex-grow: 1;
+	text-align: center;
+}
+.link {
+	text-decoration: none;
+	color: white;
+}
+.logoutBtn {
+	background-color:rgb(255, 108, 108) !important;
+	color: black !important;
+	border-radius: 100px !important;
+}
+.activeNav {
+	background-color: skyblue;
+	padding: 5px 10px;
+	color: black !important;
+	text-shadow: 0 0 10px #000000;
+	border-radius: 100px !important;
+	font-weight: 600 !important;
+}
